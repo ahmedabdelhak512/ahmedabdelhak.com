@@ -1,0 +1,14 @@
+h6{
+  color:rgb(19, 19, 20);
+ background-image: My pic.jpg;
+}
+h3{
+  background-color: rgba(37, 37, 255, 0.205);
+}
+a:hover{
+  color: rgb(247, 27, 74);
+  font-size: 20px;
+}
+h2{
+  color: brown;
+}
